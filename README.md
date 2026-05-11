@@ -1,6 +1,6 @@
 # Oliver Grund
 
-Backend developer and data scientist based in Prague. Currently at SAIGON Technologies (data backend and an in-house trading terminal for prediction markets). Previously LLM tooling at MAMA TELMA AI, plus solo-shipped production systems for algorithmic trading and manufacturing optimization.
+Applied AI engineer and backend developer based in Prague. Currently at SAIGON Technologies (data backend and an in-house trading terminal for prediction markets, now serving a paying institutional client). Previously LLM tooling at MAMA TELMA AI (top-5 EUROTEQ finalist), plus solo-shipped production systems for algorithmic trading and manufacturing optimization.
 
 ## Selected projects
 
