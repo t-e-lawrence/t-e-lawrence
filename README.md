@@ -8,8 +8,9 @@ Applied AI engineer and backend developer based in Prague. Currently at SAIGON T
 
 **[socialcloud](https://github.com/t-e-lawrence/socialcloud)** — Social network analysis pipeline. CLIP ViT-H/14 embeddings, Wasserstein distances between point clouds of per-user content, community detection via Louvain. Schema-driven for any directed social graph.
 
-**[kalshi_regime_replication](https://github.com/t-e-lawrence/kalshi_regime_replication)** — Replication note on Diercks, Katz & Wright (2026), "Kalshi and the Rise of Macro Markets" (FEDS 2026-010). Argues the documented disagreement is regime-conditional and the spread-gap is mechanically driven by differing distribution supports between Kalshi and FedWatch.
+**[kalshi_regime_replication](https://github.com/t-e-lawrence/kalshi_regime_replication)** — Replication note on Diercks, Katz & Wright (2026), "Kalshi and the Rise of Macro Markets" (FEDS 2026-010). Argues the documented disagreement is regime-conditional, only operative in a minority of meetings. Writeup on Substack: [The Fed's New Paper on Kalshi: Replicating It Tells a Different Story](https://olivergrund.substack.com/p/the-feds-new-paper-on-kalshi-replicating).
 
 ## Contact
 
-oliver.grund@stegatron.com
+oliver.grund@stegatron.com  
+[substack.com/@olivergrund](https://substack.com/@olivergrund)
